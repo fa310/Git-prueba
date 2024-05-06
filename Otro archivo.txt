@@ -1,5 +1,0 @@
-Mas lineas.
-#Linea para comentar ambigua.
-Nuevos cambios sin mas reflejado en mi rama .
-Realizamos cambios del PR.
-Agrego otra lineas mas.
